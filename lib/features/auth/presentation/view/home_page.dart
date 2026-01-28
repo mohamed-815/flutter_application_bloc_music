@@ -57,6 +57,8 @@ class _LoginView extends StatelessWidget {
               const SizedBox(height: 16),
               _PasswordField(),
               const SizedBox(height: 24),
+              _PasswordField(),
+              const SizedBox(height: 24),
               _SubmitButton(),
             ],
           ),
